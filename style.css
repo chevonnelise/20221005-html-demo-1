@@ -1,5 +1,24 @@
 #section-1{
     background-image:url(images/galaxy.jpg);
+    height:100vh;
+    background-position:center;
+    background-size:cover;
 }
 
+.boxes{
+    background-color:cornflowerblue;
+    height:150px;
+    width:150px;
+    border: 2px beige solid;
+}
 
+.boxes-2{
+    background-color:lightpink;
+    height:150px;
+    width:150px;
+    border: 2px beige solid;
+}
+
+left-col{
+    
+}
